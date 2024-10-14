@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP, Laravel, Node.js, React.js .NET, Python, Flutter.**
 
-- 💬 Ask me about **ront End Development (HTML, CSS, JavaScript, React) - Digital Marketing Strategies - Best practices for building user-friendly websites - Collaboration on open-source projects - Career advice in tech and marketing**
+- 💬 Ask me about **Front End Development (HTML, CSS, JavaScript, React) - Digital Marketing Strategies - Best practices for building user-friendly websites - Collaboration on open-source projects - Career advice in tech and marketing**
 
 - 📫 How to reach me **Huzaifaahmedpk@outlook.com**
 
