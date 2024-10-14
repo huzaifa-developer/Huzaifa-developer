@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Ahmed</h1>
-<h3 align="center">A passionate frontend developer and digital marketer from Pakistan with a knack for creating engaging user experiences. I love building interactive web applications and leveraging digital marketing strategies to drive growth.</h3>
+<h3 align="center">A passionate frontend developer and Digital Marketer from Pakistan with a knack for creating engaging user experiences. I love building interactive web applications and leveraging digital marketing strategies to drive growth.</h3>
 
 - 🌱 I’m currently learning **PHP, Laravel, Node.js, React.js .NET, Python, Flutter.**
 
